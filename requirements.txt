@@ -1,0 +1,12 @@
+jupyterlab
+yfinance
+pandas
+numpy
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+beautifulsoup4
+requests
+python-dotenv
+matplotlib
