@@ -2,6 +2,9 @@ jupyterlab
 yfinance
 pandas
 numpy
+scipy
+seaborn
+pytest
 langchain
 langchain-google-genai
 langchain-community
