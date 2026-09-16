@@ -13,6 +13,8 @@ import numpy as np
 import pandas as pd
 from typing import Dict, Union, List, Optional
 
+__version__ = "1.0.0"
+
 from .var_cvar import VaRCVaREngine
 from .kelly_sizing import KellySizingEngine
 from .drawdown_vol_target import DrawdownVolTargetEngine
